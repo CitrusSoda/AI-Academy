@@ -9,3 +9,6 @@
 
 ## 3주차 과제 (2020.06.04)
 [3주차 과제](https://github.com/CitrusSoda/AI-Academy/blob/master/3_week.ipynb)
+
+## 4주차 과제 (2020.06.11)
+[4주차 과제](https://github.com/CitrusSoda/AI-Academy/blob/master/4_week.ipynb)
